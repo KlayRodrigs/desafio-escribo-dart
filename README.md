@@ -1,4 +1,4 @@
-<h1>Desafio técnico 1 da Escribe</h1>
+<h1>Desafio técnico 1 da Escribo</h1>
 
 Pasta bin => Contém o main() que executa o código;
 
